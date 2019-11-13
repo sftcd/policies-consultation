@@ -1,6 +1,8 @@
 **THE INITIAL POLICY DEVELOPMENT PROCESS IS COMPLETE - THANK YOU FOR YOUR FEEDBACK**
 
-
+**This fork is to help develop an IAB Conflict of Interest policy based on the LLC
+equivalent** I forked the entire repo to provide continuity. I've also made some 
+initial edits doing the basic s/LLC/IAB/ changes.
 
 # policies-consultation
 Materials for a consultation with the IETF community on IETF LLC policies.
