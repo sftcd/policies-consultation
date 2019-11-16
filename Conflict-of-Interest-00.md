@@ -1,4 +1,4 @@
-IETF LLC CONFLICT OF INTEREST POLICY
+Internet Architecture Board CONFLICT OF INTEREST POLICY
 
 Who is a Covered Individual? The set of Internet Architecture Board (IAB) members (collectively, “Covered Individuals”).
 
