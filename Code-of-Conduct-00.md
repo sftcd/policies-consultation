@@ -81,9 +81,9 @@ If a Covered Individual  is contacted for comment about IAB for publication, inc
  
 **9. 	Gifts**
  
-IAB’s integrity, accountability and reputation can be compromised if a Covered Individual accepts (or receives) personal gifts from certain types of outside parties as a result of their role in the IAB. The types of parties include vendors, potential vendors, or any other outside individual or organization relating to IAB business (collectively, “business partners”).  
+IAB’s integrity, accountability and reputation can be compromised if a Covered Individual accepts (or receives) personal gifts from certain types of outside parties as a result of their role in the IAB. The types of parties include vendors, potential vendors, or any other outside individual or organization relating to IAB business (collectively, “business partners”).
  
-A “gift” refers to the transfer of any item of value including goods and services without compensation, including travel (e.g. flights and hotel rooms).  The exchange of gifts of ‘nominal value’ (less than 50.00 USD) is acceptable as long as it is in accordance with generally accepted, local customs, traditions and laws, the gifts are not offered or accepted with the purpose of influencing a business decision or official action, the gift will not negatively affect the reputation of IAB, and complies with the Anti-Bribery and Corruption policy described below and with other applicable laws.  
+A “gift” refers to the transfer of any item of value including goods and services without compensation, including travel (e.g. flights and hotel rooms).  The exchange of gifts of ‘nominal value’ (less than 50.00 USD) is acceptable as long as it is in accordance with generally accepted, local customs, traditions and laws, the gifts are not offered or accepted with the purpose of influencing a business decision or official action, the gift will not negatively affect the reputation of IAB, and complies with the Anti-Bribery and Corruption policy described below and with other applicable laws.
  
 Covered Individuals should always obtain approval from the appropriate Approving Authority prior to accepting any gifts above the nominal value above (except as explicitly stated below), or if they otherwise have questions about the appropriateness of a gift. Covered Individuals should clearly account for and document any non-nominal gifts received with pre-approval, as well as any and all business entertainment expenses in accordance with the Travel & Expense Reimbursement Policy.
  
@@ -110,7 +110,7 @@ Awards may be accepted for meritorious contributions or service if they are of n
  
 **10. 	Anti-Bribery and Corruption (ABC) Policy & Procedures**
  
-The IAB is committed to conducting its business ethically in every country in which it does business, as well as complying with all applicable U.S., state, and local laws.  This includes compliance with anti-bribery and corruption (ABC) laws such as the U.S. Foreign Corrupt Practices Act (FCPA) or UK Bribery Act of 2010.
+The IAB is committed to conducting its business ethically in every country in which it does business, as well as complying with all applicable country, state, and local laws.
  
 Corruption is any abuse of power for private gain; while bribery is an act of giving money or gift giving that alters the behavior of the recipient. Although the nature and scope of corruption and bribery may differ from country to country, the IAB has a strict zero-tolerance policy toward bribery and corruption and strictly prohibits any improper payments in any type of business dealings anywhere in the world.
  
@@ -147,7 +147,7 @@ Covered Individuals will conduct rigorous due diligence on any third party that 
  
 **Antiboycott Laws**
 
-The US adopted certain antiboycott laws to encourage, and in specified cases, require US companies to refuse to participate in foreign boycotts unsanctioned by the United States (such as the Arab League boycott of Israel). Covered Individuals shall not agree to include words such as “Boycott”, “blacklist” or similar terms in any IAB related documents such as contracts, invoices, purchase orders, etc. and shall report to the Executive Director any requests to comply with a foreign boycott.
+Some countries have adopted certain antiboycott laws to encourage, and in specified cases, require companies to refuse to participate in unsanctioned foreign boycotts. Covered Individuals shall not agree to include words such as “Boycott”, “blacklist” or similar terms in any IAB related documents such as contracts, invoices, purchase orders, etc. and shall report to the IAB Chair any requests to comply with a foreign boycott.
  
 Policy version: 1
 
