@@ -16,11 +16,11 @@ To avoid the risk of any improper conduct or potential for conflicts, the follow
 
 - Covered Individuals shall not engage in any outside business, professional conduct, or other activities that are directly adverse to the interests of the IAB.
 
-- IAB members (and their families) may not receive direct compensation for providing goods or services to the IAB, whether as paid contractors, paid advisors, paid employees, or through a financial interest in a party (such as ownership, but not including employment) that enters into a transaction with the the IAB.
+- IAB members (and their families) may not receive direct compensation for providing goods or services to the IAB, whether as paid contractors, paid advisors, paid employees, or through a financial interest in a party (such as ownership, but not including employment) that enters into a transaction with the IAB.
 
 **Disclosure of Actual or Potential Conflicts**
 
-In addition to the obligation that all Covered Individuals adhere to the the IAB’s Code of Conduct, the IAB requires that all Covered Individuals promptly disclose to the the IAB facts or circumstances that could constitute or be perceived to be a potential conflict of interest. 
+In addition to the obligation that all Covered Individuals adhere to the IAB’s Code of Conduct, the IAB requires that all Covered Individuals promptly disclose to the IAB facts or circumstances that could constitute or be perceived to be a potential conflict of interest. 
 
 In the event a Covered Individual discloses a potential conflict of interest, non-conflicted IAB members will review all disclosures and determine an appropriate resolution. Pending the Board’s review and resolution of a potential conflict of interest, disclosing Covered Individuals will conduct themselves so as to minimize the possible impact of the potential conflict of interest on the IAB. Each Covered Individual agrees to comply with the resulting determination of the Board, including recusal from participation in certain IAB matters, termination of the conflict-related activity, termination of the engagement with the IAB, or other action as directed by the IAB.
 
