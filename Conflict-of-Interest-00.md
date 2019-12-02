@@ -66,7 +66,7 @@ II. The names of organizations for which I or a family member serves as a board 
 |              |                   |          |
  
  
-III. Other activities I participate in that may be in a similar area of activity as the IAB, or other potential conflicts of interests with my IAB responsibilities:
+III. Other activities I participate in that may be in a similar area of activity as the IAB but that are not already visible in an IETF context, or other potential conflicts of interests with my IAB responsibilities:
 
 | Organization | Organization Type | Involvement |
 |--------------|-------------------|-------------|
