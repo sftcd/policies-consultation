@@ -22,12 +22,9 @@ Covered Individuals are subject to certain standalone specific policies, as adop
  
 The following table describes the relevant Approval Authorities for the various types of individuals covered by this policy:
  
-| Individual Type                           | IAB Approval Authority |
+| Individual Type                           | IAB Approval Authority      |
 |-------------------------------------------|-----------------------------|
-| Board Directors (except for Board Chair ) | Board Chair                 |
-| Board Chair                               | Treasurer                   |
-| Executive Director                        | Treasurer                   |
-| All Other Covered Individuals             | Executive Director          |
+| Internet Architecture Board Members       | IAB Chair                   |
  
  
 **5. 	Nondiscrimination**
