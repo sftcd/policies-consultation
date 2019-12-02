@@ -29,9 +29,7 @@ The following table describes the relevant Approval Authorities for the various 
  
 **5. 	Nondiscrimination**
  
-IAB recognizes the right of all persons—including Board Directors, employees, contractors and volunteers—to equal opportunity. No Covered Individual shall discriminate against or treat any person with whom they deal unequally because of race, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, marital status, religion, ethnicity, national origin, ancestry or any other status protected by applicable laws.
- 
-IAB follows a fair and equal opportunity employment policy and employs personnel without regard to race, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, marital status, religion, ethnicity, national origin, ancestry or any other status protected by applicable laws. This policy applies to hiring, internal promotions, training, opportunities for advancement and terminations.
+IAB recognizes the right of all persons—including IAB Members and volunteers—to equal opportunity. No Covered Individual shall discriminate against or treat any person with whom they deal unequally because of race, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, marital status, religion, ethnicity, national origin, ancestry or any other status protected by applicable laws.
  
 **6. 	Anti-Harassment**
  
