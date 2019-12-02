@@ -36,7 +36,7 @@ At least annually, the IAB, as one of its functions and responsibilities, will r
 
 **Disclosure Transparency**
 
-The IAB Board will maintain a private repository of all disclosures and associated resolutions. The IAB will also publicly publish a summary of disclosures and resolutions, both as summary statistics (e.g. total number of disclosure forms received) as well as individual-level disclosures. Confidential information and information not relevant to the business of the IETF will be redacted when individual disclosures are published. Disclosures will be posted on an annual basis, or more frequently when and if updates to individual disclosures occur. 
+The IAB Board will maintain a private repository of all disclosures and associated resolutions. The IAB will also publicly publish a summary of disclosures and resolutions, both as summary statistics (e.g. total number of disclosure forms received) as well as individual-level disclosures. Confidential information and information not relevant to the business of the IAB or the IETF will be redacted when individual disclosures are published. Disclosures will be posted on an annual basis, or more frequently when and if updates to individual disclosures occur.
 
 [NEW PAGE - FORM TO BE COMPLETED]
 
