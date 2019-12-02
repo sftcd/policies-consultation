@@ -1,6 +1,6 @@
 Internet Architecture Board CONFLICT OF INTEREST POLICY
 
-Who is a Covered Individual? The set of Internet Architecture Board (IAB) members (collectively, “Covered Individuals”).
+Who is a Covered Individual? The Internet Architecture Board (IAB) members (collectively, “Covered Individuals”).
 
 Who is not a Covered Individual? IETF participants, IRTF participants, IESG members, the IRTF Chair, IAB program members, IETF LLC board members, working group chairs, research group chairs, directorate participants, the Independent Submissions Editor, the Independent Submissions Editorial Board, NOC volunteers, Tools team volunteers, the Ombudsteam, the Sergeants-at-arms, trustees of the IETF Trust, and any individual not involved in the IETF, except if such individuals are formally authorized as Covered Individuals.
 
