@@ -9,6 +9,7 @@ Covered Individuals must act in the best interest of the Internet community. Occ
 For purposes of this policy and related disclosures, "family" means a spouse, domestic partner, child, sibling, parent, stepchild, stepparent, and mother-, father-, son-, daughter-, brother-, or sister-in-law, and any other person living in the same household, except tenants and household employees.
 
 **Prohibited Conflicts**
+(Maybe we should just delete this section - see [issue#6](https://github.com/sftcd/policies-consultation/issues/6).)
 
 To avoid the risk of any improper conduct or potential for conflicts, the following actions, relationships, or transactions are prohibited:
 
