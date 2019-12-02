@@ -14,7 +14,7 @@ To avoid the risk of any improper conduct or potential for conflicts, the follow
 
 - Covered Individuals shall not use the IAB’s staff, services, equipment, materials, resources, or property for personal or third-party gain.
 
-- Covered Individuals shall not engage in any outside business, professional conduct, or other activities that are directly adverse to the interests of the IAB.   
+- Covered Individuals shall not engage in any outside business, professional conduct, or other activities that are directly adverse to the interests of the IAB.
 
 - IAB members (and their families) may not receive direct compensation for providing goods or services to the IAB, whether as paid contractors, paid advisors, paid employees, or through a financial interest in a party (such as ownership, but not including employment) that enters into a transaction with the the IAB.
 
