@@ -8,14 +8,14 @@ Covered Individuals must act in the best interest of the Internet community. Occ
 
 For purposes of this policy and related disclosures, "family" means a spouse, domestic partner, child, sibling, parent, stepchild, stepparent, and mother-, father-, son-, daughter-, brother-, or sister-in-law, and any other person living in the same household, except tenants and household employees.
 
-**Prohibited Conflicts**
-(Maybe we should just delete this section - see [issue#6](https://github.com/sftcd/policies-consultation/issues/6).)
+<strike>**Prohibited Conflicts**
+(Maybe we should just delete this section - see [issue#6](https://github.com/sftcd/policies-consultation/issues/6).)</strike>
 
-To avoid the risk of any improper conduct or potential for conflicts, the following actions, relationships, or transactions are prohibited:
+<strike>To avoid the risk of any improper conduct or potential for conflicts, the following actions, relationships, or transactions are prohibited:
 
 - Covered Individuals shall not use the IAB’s staff, services, equipment, materials, resources, or property for personal or third-party gain.
 
-- IAB members (and their families) may not receive direct compensation for providing goods or services to the IAB, whether as paid contractors, paid advisors, paid employees, or through a financial interest in a party (such as ownership, but not including employment) that enters into a transaction with the the IAB.
+- IAB members (and their families) may not receive direct compensation for providing goods or services to the IAB, whether as paid contractors, paid advisors, paid employees, or through a financial interest in a party (such as ownership, but not including employment) that enters into a transaction with the the IAB.</strike>
 
 **Disclosure of Actual or Potential Conflicts**
 
